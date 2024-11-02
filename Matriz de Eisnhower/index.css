@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    
+}
+.caixa1 {
+    display: flex; /* Organiza as áreas lado a lado */
+    justify-content: space-between; /* Espaço entre as áreas */
+    width: 1000px; /* Largura máxima da caixa */
+    margin: 10px; /* Centraliza a caixa na tela */
+    padding: 20px; /* Espaço dentro da caixa */
+    border-radius: 10px; /* Cantos arredondados da caixa */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    height:400px
+}
+ 
+.caixa2 {
+    display: flex; /* Organiza as áreas lado a lado */
+    justify-content: space-between; /* Espaço entre as áreas */
+    width: 1000px; /* Largura máxima da caixa */
+    margin: 10px; /* Centraliza a caixa na tela */
+    padding: 20px; /* Espaço dentro da caixa */
+    border-radius: 10px; /* Cantos arredondados da caixa */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    height:400px
+}
+.caixa3 {
+    display: flex; /* Organiza as áreas lado a lado */
+    justify-content: space-between; /* Espaço entre as áreas */
+    width: 1000px; /* Largura máxima da caixa */
+    margin: 10px; /* Centraliza a caixa na tela */
+    padding: 20px; /* Espaço dentro da caixa */
+    border-radius: 10px; /* Cantos arredondados da caixa */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    height:400px
+}
+
+.caixa4 {
+    display: flex; /* Organiza as áreas lado a lado */
+    justify-content: space-between; /* Espaço entre as áreas */
+    width: 1000px; /* Largura máxima da caixa */
+    margin: 10px; /* Centraliza a caixa na tela */
+    padding: 20px; /* Espaço dentro da caixa */
+    border-radius: 10px; /* Cantos arredondados da caixa */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    height:400px
+}
+
+
